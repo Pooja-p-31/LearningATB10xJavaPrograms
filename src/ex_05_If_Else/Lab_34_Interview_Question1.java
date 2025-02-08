@@ -1,0 +1,17 @@
+package ex_05_If_Else;
+
+public class Lab_34_Interview_Question1 {
+
+    public static void main(String[] args) {
+
+        boolean b = !true;
+        if(b)
+        {
+            System.out.println("b is true");
+        }
+        else
+        {
+            System.out.println("b is not true");
+        }
+    }
+}
