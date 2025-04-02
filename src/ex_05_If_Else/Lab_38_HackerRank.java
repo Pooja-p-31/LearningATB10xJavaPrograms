@@ -10,11 +10,11 @@ public class Lab_38_HackerRank {
         System.out.println("Enter marks: ");
         int marks = sc.nextInt();
         char grade = 'P';
-        if(marks >= 90 & marks <= 100)
+        if(marks >= 90 && marks <= 100)
         {
             grade = 'A';
         }
-        else if (marks >= 80 & marks <= 89)
+        else if (marks >= 80 && marks <= 89)
         {
             grade = 'B';
         }
